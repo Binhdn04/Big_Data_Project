@@ -48,7 +48,7 @@ ratings : an integer number of the ratings
 
 comments : an integer number of the comments
 
-You can download a sample dataset from [Kaggle](https://www.kaggle.com/datasnaek/youtube-new).
+You can download a sample dataset from [Dataset](https://netsg.cs.sfu.ca/youtubedata/).
 
 ## Architecture
 
