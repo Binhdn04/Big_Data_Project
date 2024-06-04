@@ -14,7 +14,6 @@ This project aims to analyze YouTube data using the MapReduce programming model.
 - [Usage](#usage)
 - [Examples](#examples)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Prerequisites
